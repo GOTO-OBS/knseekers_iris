@@ -1,0 +1,6 @@
+payload/
+training_payload/
+data/
+*.ipynb
+.ipynb_checkpoints
+.env
